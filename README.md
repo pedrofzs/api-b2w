@@ -1,8 +1,8 @@
-# api-b2w
+# API StarWars - B2W 
 
-## Nossos associados são aficionados por Star Wars e com isso, queremos criar um jogo com algumas informações da franquia.
+### Nossos associados são aficionados por Star Wars e com isso, queremos criar um jogo com algumas informações da franquia.
 
-## Para possibilitar a equipe de front criar essa aplicação, queremos desenvolver uma API que contenha os dados dos planetas. 
+### Para possibilitar a equipe de front criar essa aplicação, queremos desenvolver uma API que contenha os dados dos planetas. 
 
 ### Requisitos:
 
